@@ -4,3 +4,5 @@ Weather App is a web project which focuses mainly on gathering weather data. The
 In addition, there are many weather API (Application Programming Interface) that can be used to access the weather and apply to your system such as openweathermap api and fetch API.
 
 In terms of the Weather App Using JavaScript features, the user can estimate the current-day climatic probability and determine whether the day will be cloudy or sunny. In the software, the user can write down the name of any city in the world.
+
+Check out the live website here : https://ishikaagarwal3031.github.io/Weather-app-website/
